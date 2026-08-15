@@ -1,91 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aleksei Chernov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Aleksei Chernov
+Software Engineer · Game Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/urusty">GitHub</a>
+| <a href="mailto:mrellariot@gmail.com">Email</a>
 </div>
 
+## Profile
 
-## Currently
+Software Engineering student with an interest in game development,
+systems programming and interactive software.
 
-Standing on the shoulders of giants
+Experienced with C++, C#, Python and Unity, with additional experience
+in web development, databases and Docker.
 
-### Specialized in
+Currently building practical projects to expand my software engineering
+and game development skills.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Projects
 
+### Unity Platformer
 
-### Research interests
+`C#` `Unity`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+My first game development project built with Unity.
 
+- Gameplay mechanics and player controls
+- Physics and interaction systems
+- User interface
+- Game development tools and scripting
+
+### Thesis Check Platform
+
+`Python` `Django` `React` `PostgreSQL` `Docker`
+
+Academic integrity platform designed to assist students with thesis
+analysis and feedback.
+
+- REST API with Django REST Framework
+- JWT authentication
+- PostgreSQL database with pgvector
+- React frontend
+- Docker-based development environment
+- Grammar and citation validation
+
+## Technical Skills
+
+### Programming Languages
+
+C++ · C# · Python · C · Rust
+
+### Frameworks & Technologies
+
+Unity · Django · Django REST Framework · React · Qt · PostgreSQL
+
+### Tools
+
+Git · Docker · Visual Studio · VS Code
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - Present`
+__Final International University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+B.Sc. Software Engineering
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### System Administrator Intern
 
-- Fellow
+`2026`
+__Sibterra LLC__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Hardware and software maintenance
+- User account administration
+- Network monitoring and troubleshooting
+- Backup and documentation
+- Software updates and security checks
