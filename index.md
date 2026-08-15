@@ -24,36 +24,62 @@ and game development skills.
 
 ## Projects
 
-### Unity Platformer
+<div class="project">
+    <div class="project-header">
+        <h3>Unity Platformer</h3>
+        <div class="project-tech">
+            C# · Unity
+        </div>
+    </div>
 
-`C#` `Unity`
+    <p>
+        My first game development project built with Unity.
+    </p>
 
-My first game development project built with Unity.
+    <ul>
+        <li>Gameplay mechanics and player controls</li>
+        <li>Physics and interaction systems</li>
+        <li>User interface</li>
+        <li>Game development tools and scripting</li>
+    </ul>
 
-- Gameplay mechanics and player controls
-- Physics and interaction systems
-- User interface
-- Game development tools and scripting
+    <div class="project-link">
+        <a href="YOUR_UNITY_GITHUB_URL">GitHub →</a>
+    </div>
+</div>
 
-### Thesis Check Platform
+<div class="project">
+    <div class="project-header">
+        <h3>Thesis Check Platform</h3>
+        <div class="project-tech">
+            Python · Django · React · PostgreSQL · Docker
+        </div>
+    </div>
 
-`Python` `Django` `React` `PostgreSQL` `Docker`
+    <p>
+        Academic integrity platform designed to assist students with
+        thesis analysis and feedback.
+    </p>
 
-Academic integrity platform designed to assist students with thesis
-analysis and feedback.
+    <ul>
+        <li>REST API with Django REST Framework</li>
+        <li>JWT authentication</li>
+        <li>PostgreSQL database with pgvector</li>
+        <li>React frontend</li>
+        <li>Docker-based development environment</li>
+        <li>Grammar and citation validation</li>
+    </ul>
 
-- REST API with Django REST Framework
-- JWT authentication
-- PostgreSQL database with pgvector
-- React frontend
-- Docker-based development environment
-- Grammar and citation validation
+    <div class="project-link">
+        <a href="YOUR_THESIS_GITHUB_URL">GitHub →</a>
+    </div>
+</div>
 
 ## Technical Skills
 
 ### Programming Languages
 
-C++ · C# · Python · C · Rust
+C++ · C# · Python · C 
 
 ### Frameworks & Technologies
 
