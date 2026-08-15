@@ -210,3 +210,87 @@ a:hover {
         margin-bottom: 3px;
     }
 }
+/* =========================================
+   Projects
+   ========================================= */
+
+.project {
+    margin: 28px 0;
+    padding: 28px 30px;
+
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+
+    transition:
+        border-color 0.2s ease,
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.project:hover {
+    border-color: #58a6ff;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+}
+
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 20px;
+    margin-bottom: 12px;
+}
+
+.project h3 {
+    margin: 0;
+    color: #f0f6fc;
+    font-size: 1.15rem;
+}
+
+.project-tech {
+    color: #8b949e;
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.78rem;
+    white-space: nowrap;
+}
+
+.project p {
+    color: #c9d1d9;
+    margin-bottom: 14px;
+}
+
+.project ul {
+    margin-bottom: 18px;
+}
+
+.project-link {
+    margin-top: 18px;
+}
+
+.project-link a {
+    color: #58a6ff;
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.85rem;
+    text-decoration: none;
+}
+
+.project-link a:hover {
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 700px) {
+
+    .project {
+        padding: 22px 20px;
+    }
+
+    .project-header {
+        display: block;
+    }
+
+    .project-tech {
+        margin-top: 5px;
+        white-space: normal;
+    }
+}
