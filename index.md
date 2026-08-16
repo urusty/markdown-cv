@@ -25,6 +25,9 @@ and game development skills.
 ## Projects
 
 <div class="project">
+    <div class="project-media">
+        <img src="media/unity-platformer.gif" alt="Unity Platformer gameplay">
+    </div>
     <div class="project-header">
         <h3>Unity Platformer</h3>
         <div class="project-tech">
