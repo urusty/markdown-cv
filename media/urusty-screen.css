@@ -294,3 +294,34 @@ a:hover {
         white-space: normal;
     }
 }
+
+/* =========================================
+   Project Media
+   ========================================= */
+
+.project-media {
+    width: 100%;
+    margin: -28px -30px 24px;
+    width: calc(100% + 60px);
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+}
+
+.project-media img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 420px;
+    object-fit: cover;
+}
+
+@media only screen and (max-width: 700px) {
+    .project-media {
+        margin: -22px -20px 20px;
+        width: calc(100% + 40px);
+    }
+
+    .project-media img {
+        max-height: 300px;
+    }
+}
