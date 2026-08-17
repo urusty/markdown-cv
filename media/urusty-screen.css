@@ -359,3 +359,95 @@ a:hover {
     color: #58a6ff;
     border-color: #58a6ff;
 }
+/* =========================================
+   Projects
+   ========================================= */
+
+.project {
+    position: relative;
+
+    margin: 0 0 35px;
+    padding: 28px 30px;
+
+    border: 1px solid #30363d;
+    border-radius: 10px;
+
+    background: #0d1117;
+
+    transition:
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.project:hover {
+    border-color: #58a6ff;
+    transform: translateY(-2px);
+}
+
+.project-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 20px;
+
+    margin-bottom: 18px;
+}
+
+.project-header h3 {
+    position: static;
+
+    width: auto;
+
+    margin: 0;
+
+    font-size: 1.25rem;
+    line-height: 1.4;
+
+    text-align: left;
+    color: #f0f6fc;
+}
+
+.project-tech {
+    color: #8b949e;
+
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.75rem;
+
+    white-space: nowrap;
+}
+
+.project p {
+    position: static;
+
+    width: auto;
+
+    margin: 0 0 18px;
+
+    color: #c9d1d9;
+}
+
+.project ul {
+    position: static;
+
+    width: auto;
+
+    margin: 0 0 20px;
+
+    color: #8b949e;
+}
+
+.project-link {
+    margin-top: 18px;
+
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.8rem;
+}
+
+.project-link a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+.project-link a:hover {
+    text-decoration: underline;
+}
