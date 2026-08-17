@@ -10,7 +10,16 @@ Software Engineer · Game Developer
 <a href="https://github.com/urusty">GitHub</a>
 | <a href="mailto:mrellariot@gmail.com">Email</a>
 </div>
-
+<div class="tech-stack">
+    <span>C++</span>
+    <span>C#</span>
+    <span>Python</span>
+    <span>Unity</span>
+    <span>Django</span>
+    <span>React</span>
+    <span>PostgreSQL</span>
+    <span>Docker</span>
+</div>
 ## Profile
 
 Software Engineering student with an interest in game development,
