@@ -56,7 +56,9 @@ and game development skills.
     </ul>
 
     <div class="project-link">
-        <a href="YOUR_UNITY_GITHUB_URL">GitHub →</a>
+        <a href="https://github.com/urusty/PlatformerGame">
+        GitHub →
+    </a>
     </div>
 </div>
 
@@ -104,20 +106,26 @@ Git · Docker · Visual Studio · VS Code
 
 ## Education
 
-`2022 - Present`
-__Final International University__
+`2023–Present`
+__Final International University__, North Cyprus
 
-B.Sc. Software Engineering
+B.Sc. in Software Engineering
 
+
+`2021–2023`
+__School 21 by Sber__, Russia
+
+Software Development · Project-Based IT Education
+
+
+`2021–2023`
+__Novosibirsk State Technical University__, Russia
+
+Automation and Computer Engineering
+
+
+`2018–2020`
+__Novosibirsk State University__, Russia
+
+Physics
 ## Experience
-
-### System Administrator Intern
-
-`2026`
-__Sibterra LLC__
-
-- Hardware and software maintenance
-- User account administration
-- Network monitoring and troubleshooting
-- Backup and documentation
-- Software updates and security checks
