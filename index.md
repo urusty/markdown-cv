@@ -60,21 +60,22 @@ and game development skills.
     </div>
 
     <p>
-        Academic integrity platform designed to assist students with
-        thesis analysis and feedback.
+        Team project focused on academic integrity and thesis analysis.
+        Developed as part of the Software Analysis and Design course.
     </p>
 
     <ul>
-        <li>REST API with Django REST Framework</li>
-        <li>JWT authentication</li>
-        <li>PostgreSQL database with pgvector</li>
-        <li>React frontend</li>
-        <li>Docker-based development environment</li>
-        <li>Grammar and citation validation</li>
+        <li>Developed frontend components and integrated them with the backend authentication system</li>
+        <li>Implemented login and registration flow between frontend and backend</li>
+        <li>Added password recovery and role-based authentication functionality</li>
+        <li>Integrated multiple backend branches and resolved merge conflicts</li>
+        <li>Improved responsive navigation for different screen sizes</li>
     </ul>
 
     <div class="project-link">
-        <a href="YOUR_THESIS_GITHUB_URL">GitHub →</a>
+        <a href="https://github.com/VadymThebest/Thesis-check_platform/tree/general_project">
+            GitHub →
+        </a>
     </div>
 </div>
 
