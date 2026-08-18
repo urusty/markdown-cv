@@ -32,7 +32,33 @@ Currently building practical projects to expand my software engineering
 and game development skills.
 
 ## Projects
+<div class="project">
+    <div class="project-header">
+        <h3>Hotel Reservation System</h3>
+        <div class="project-tech">
+            C# · WinForms · .NET · SQL Server
+        </div>
+    </div>
 
+    <p>
+        Desktop application for managing hotel operations,
+        including reservations, guests, rooms and staff accounts.
+    </p>
+
+    <ul>
+        <li>Implemented role-based authentication for Admin and Receptionist users</li>
+        <li>Developed room, customer and reservation management with availability validation</li>
+        <li>Built occupancy and revenue reports with CSV export</li>
+        <li>Implemented PBKDF2 password hashing and secure initial password change flow</li>
+        <li>Added LocalDB database initialization, versioned migrations and automated tests</li>
+    </ul>
+
+    <div class="project-link">
+        <a href="https://github.com/urusty/Hotel-Reservation-System">
+            GitHub →
+        </a>
+    </div>
+</div>
 <div class="project">
     <div class="project-media">
         <img src="media/unity-platformer.gif" alt="Unity Platformer gameplay">
